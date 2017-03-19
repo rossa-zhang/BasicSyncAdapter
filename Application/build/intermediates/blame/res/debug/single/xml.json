@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "K:\\android\\projects\\Examples\\BasicSyncAdapter\\Application\\build\\intermediates\\res\\merged\\debug\\xml\\syncadapter.xml",
+        "source": "K:\\android\\projects\\Examples\\BasicSyncAdapter\\Application\\src\\main\\res\\xml\\syncadapter.xml"
+    },
+    {
+        "merged": "K:\\android\\projects\\Examples\\BasicSyncAdapter\\Application\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
+        "source": "K:\\android\\projects\\Examples\\BasicSyncAdapter\\Application\\src\\main\\res\\xml\\authenticator.xml"
+    }
+]

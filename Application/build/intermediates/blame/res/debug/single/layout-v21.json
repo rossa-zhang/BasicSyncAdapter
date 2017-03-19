@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "K:\\android\\projects\\Examples\\BasicSyncAdapter\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Lonesome\\.android\\build-cache\\48ec51252d2d219cef97d66c6a8a6932e199ab88\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "K:\\android\\projects\\Examples\\BasicSyncAdapter\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Lonesome\\.android\\build-cache\\48ec51252d2d219cef97d66c6a8a6932e199ab88\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "K:\\android\\projects\\Examples\\BasicSyncAdapter\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Lonesome\\.android\\build-cache\\48ec51252d2d219cef97d66c6a8a6932e199ab88\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "K:\\android\\projects\\Examples\\BasicSyncAdapter\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Lonesome\\.android\\build-cache\\48ec51252d2d219cef97d66c6a8a6932e199ab88\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
